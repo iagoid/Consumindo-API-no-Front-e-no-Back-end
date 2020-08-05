@@ -7,4 +7,4 @@ Para rodar -> ```npm start```
 
 Cria um novo host para o index -> ```npx lite-server```
 
-**IMPORTANTE: Estar rodando os hosts 4567 e 3000 simultaneamente
+**IMPORTANTE: Estar rodando os hosts 4567 e 3000 simultaneamente**
